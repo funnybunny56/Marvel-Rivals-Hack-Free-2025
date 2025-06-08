@@ -56,6 +56,8 @@ Witness the mod’s MIGHT!
 ## Configuration
 - Tweak powers in the menu (`INSERT`)—craft your heroic edge!
 - Save setups in `config.json`—rule every clash!
+## Screenshot:
+[![31-1.png](https://i.postimg.cc/9MKnHsNt/31-1.png)](https://postimg.cc/R61RcpmN)
 
 ## Usage
 - Hold aimbot key for super aim!
